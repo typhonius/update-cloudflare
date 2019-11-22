@@ -1,0 +1,12 @@
+{
+    "name": "typhonius/update-cloudflare",
+    "require": {
+        "cloudflare/sdk": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Adam Malone",
+            "email": "adam@adammalone.net"
+        }
+    ]
+}
